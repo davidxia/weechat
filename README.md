@@ -1,9 +1,9 @@
 # Setup
 
-Install weechat. Git clone into ~/.weechat, make appropriate changes below, and
+Install weechat. Git clone into `~/.weechat`, make appropriate changes below, and
 start the client.
 
-Modify irc.conf
+Modify `irc.conf`
 
   * change nicks, username
   * change "organization"
